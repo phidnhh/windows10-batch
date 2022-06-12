@@ -1,0 +1,1 @@
+cd C:\Program Files\BlueStacks && HD-ConfigHttpProxy.exe reset

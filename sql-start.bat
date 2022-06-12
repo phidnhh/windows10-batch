@@ -1,0 +1,1 @@
+sc config "MSSQLSERVER" start=demand && sc start "MSSQLSERVER" start && sc config "SQLSERVERAGENT" start=demand && sc start "SQLSERVERAGENT" start && sc config "SQLTELEMETRY" start=demand && sc start "SQLTELEMETRY" start && sc config "SQLWriter" start=demand && sc start "SQLWriter" start && pause

@@ -1,0 +1,1 @@
+sc config "MSSQLSERVER" start=disabled && sc stop "MSSQLSERVER" && sc config "SQLSERVERAGENT" start=disabled && sc stop "SQLSERVERAGENT" && sc config "SQLTELEMETRY" start=disabled && sc stop "SQLTELEMETRY" && sc config "SQLWriter" start=disabled && sc stop "SQLWriter" && pause

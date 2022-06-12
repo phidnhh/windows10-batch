@@ -1,0 +1,1 @@
+sc config "HmaProVpn" start=disabled && sc stop "HmaProVpn" && pause

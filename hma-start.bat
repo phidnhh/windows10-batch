@@ -1,0 +1,1 @@
+sc config "HmaProVpn" start=demand && sc start "HmaProVpn" start && pause

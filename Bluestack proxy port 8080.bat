@@ -1,0 +1,1 @@
+cd C:\Program Files\BlueStacks && HD-ConfigHttpProxy.exe set 192.168.2.101 8080

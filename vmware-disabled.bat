@@ -1,0 +1,1 @@
+sc config "VMAuthdService" start=disabled && sc stop "VMAuthdService" && sc config "VMnetDHCP" start=disabled && sc stop "VMnetDHCP" && sc config "VMware NAT Service" start=disabled && sc stop "VMware NAT Service" && sc config "VMUSBArbService" start=disabled && sc stop "VMUSBArbService" && pause
